@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Thomas92230/OhMyFood-Project.git"
+    "url": "git+https://github.com/Thomas92230/ohmyfood.git"
   },
   "author": "Icham",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Thomas92230/OhMyFood-Project/issues"
+    "url": "https://github.com/Thomas92230/ohmyfood/issues"
   },
-  "homepage": "https://github.com/Thomas92230/OhMyFood-Project#readme",
+  "homepage": "https://github.com/Thomas92230/ohmyfood#readme",
   "devDependencies": {
     "sass": "^1.56.1"
   }
